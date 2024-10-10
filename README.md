@@ -29,6 +29,7 @@ For the success of the said project, I was asked to set up the necessary tools f
 • The call center
 
 ## Operation
+
 • The environmental and social safeguard assistants with the field team collected and recorded the data from the various key points on the ground in a Google Sheet file.
 
 • This file served as an online data source for our visual. This makes our visual dynamic because it directly updates the data saved by the field team during the field visits.
@@ -38,6 +39,7 @@ For the success of the said project, I was asked to set up the necessary tools f
 ## Visual presentation
 
 ### 1. Definition
+
 It is a visual designed with Power BI that allows you to transform the raw data collected by the AS into a comprehensive and easily exploitable visual.
 
 ### 2. What are the benefits it brings us?
@@ -52,12 +54,14 @@ It is a visual designed with Power BI that allows you to transform the raw data 
 • The tool allows us to manipulate our information in an interactive and dynamic way, such as to produce analyses such as the exact location of different points on a map, the number of places collected, the places according to different municipalities, the rates of the places of the points collected.
 
 ### 3. What are the disadvantages ?
+
 • The tool is not free, the use of the tool requires certain prerequisites such as the purchase of a Power BI pro license (€8.40/user payable monthly)
 
 • The Tool allows you to process and visualize data in the form of graphs but does not allow you to modify the source data. If you want to modify a data, you must do so in the source file.
 
 ### 4. Use cases of visual in the project ?
 The system can be used for several cases including:
+
 • In the event of a change in the allocation of AS by municipality, the system will allow the new AS assigned to the municipality to easily find his way around while using the data collected by the one who preceded him, which will make his task easier and save him time.
 
 • The tool will allow the Call Center (CA) team to guide a beneficiary on the move who would like to withdraw cash in a given neighborhood but does not know where to do so, the system will allow the CA team to be able to guide the latter to the nearest cash point.
@@ -71,6 +75,7 @@ The system can be used for several cases including:
 
 ### 5. Features
 The visual offers several features such as:
+
 • **Data filtering by municipality** : Allows you to filter data by categorizing it by municipality and represents on a map the location point of each data in its respective municipality.
 
 • **Data filtering by location** : Allows you to filter points by location
@@ -93,6 +98,7 @@ But it is also accessible in application version on Windows, Android, Ios.
 git clone <repository_url>
 ```
 #### 2. Build the Project:
+
 • Install Microsoft PowerBI
 • Open Microsoft Power BI
 • Open with Microsoft Power BI the file "Projet BI FSRDC.pbix" that you just cloned. (File -> Open -> Browse this device -> Go to the location where you cloned the file "Projet BI FSRDC.pbix" and Select this file -> Open)
