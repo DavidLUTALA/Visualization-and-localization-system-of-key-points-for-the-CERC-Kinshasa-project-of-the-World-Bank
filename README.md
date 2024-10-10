@@ -38,11 +38,11 @@ It is a visual designed with Power BI that allows you to transform the raw data 
 • The tool allows you to visualize each element as a whole to make a more informed decision.
 • The tool allows us to manipulate our information in an interactive and dynamic way, such as to produce analyses such as the exact location of different points on a map, the number of places collected, the places according to different municipalities, the rates of the places of the points collected.
 
-### 2. What are the disadvantages ?
+### 3. What are the disadvantages ?
 • The tool is not free, the use of the tool requires certain prerequisites such as the purchase of a Power BI pro license (€8.40/user payable monthly)
 • The Tool allows you to process and visualize data in the form of graphs but does not allow you to modify the source data. If you want to modify a data, you must do so in the source file.
 
-### 3. Use cases of visual in the project ?
+### 4. Use cases of visual in the project ?
 The system can be used for several cases including:
 • In the event of a change in the allocation of AS by municipality, the system will allow the new AS
 assigned to the municipality to easily find his way around while using the data collected by the one
@@ -56,7 +56,7 @@ to locate target points (such as the location of offices in the neighborhood)
 information points for popularizing the USSD code or raising awareness of VBG/SEA/HS
 • And many other uses
 
-### 4. Features
+### 5. Features
 The visual offers several features such as:
 • **Data filtering by municipality** : Allows you to filter data by categorizing it by municipality and represents on a map the location point of each data in its respective municipality.
 • **Data filtering by location** : Allows you to filter points by location
@@ -65,16 +65,20 @@ The visual offers several features such as:
 • **Display statistical graphs** : Allows you to display the numbers and rates (in percentage) of places collected from different targeted municipalities or neighborhoods. Displays in the form of a grouped histogram the numbers of points or places collected for each municipality.
 • **Display the names and comments** : Displays the name of the AS that collected the data as well as the comments (observations) characteristics of the point.
 
-### 5. Compatibility
+### 6. Compatibility
 The visual is accessible via the web. That is to say it can work on all operating systems (Windows, Linux, Mac OS, Android, etc.), you just need a web browser.
 But it is also accessible in application version on Windows, Android, Ios.
 
-### 6. Test project
+### 7. Test project
 
 #### 1. Clone the Repository: 
 ```bash 
 git clone <repository_url>
 ```
 #### 2. Build the Project:
-** Installer Microsoft PowerBI
-** Ouvrir le fichier "Projet BI FSRDC.pbix" que vous venez de cloner avec power BI
+• Install Microsoft PowerBI
+• Open Microsoft Power BI
+• Open with Microsoft Power BI the file "Projet BI FSRDC.pbix" that you just cloned. (File -> Open -> Browse this device -> Go to the location where you cloned the file "Projet BI FSRDC.pbix" and Select this file -> Open)
+
+
+**Ce visuel a été adapté par la suite pour les répérages des hopitaux, centres de santé et des entités à caractères protections de genre et droits de l'enfant (Orphelinat, S/ciat, parquets,  etc.) pour le projet VBG/EAS/HS.**
