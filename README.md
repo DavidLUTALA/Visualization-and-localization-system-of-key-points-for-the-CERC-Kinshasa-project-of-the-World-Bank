@@ -106,7 +106,7 @@ git clone <repository_url>
 • Open with Microsoft Power BI the file "Projet BI FSRDC.pbix" that you just cloned. (File -> Open -> Browse this device -> Go to the location where you cloned the file "Projet BI FSRDC.pbix" and Select this file -> Open)
 
 
-**Ce visuel a été adapté par la suite pour les répérages des hopitaux, centres de santé et des entités à caractères protections de genre et droits de l'enfant (Orphelinat, S/ciat, parquets,  etc.) pour le projet VBG/EAS/HS.**
+**This visual was subsequently adapted for the identification of hospitals, health centers and entities with gender protection and children's rights (Orphanages, S/ciat, public prosecutors, etc.) for the VBG/EAS/HS project.**
 
 
 
