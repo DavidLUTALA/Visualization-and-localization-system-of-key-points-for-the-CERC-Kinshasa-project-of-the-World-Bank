@@ -10,6 +10,22 @@ The project includes an emergency response component, which will enable the Gove
 
 For the success of the said project, I was asked to set up the necessary tools for the localization and visualization of the various key points useful for the execution of the CERC project but also important for the VBG/EAS/HS project.
 
+## Stakeholders
+• The World Bank (donor)
+• Project beneficiaries
+• Project specialists
+• Complaints management mechanism assistant
+• Environmental and social safeguard assistants
+• The visual producer
+• Field teams
+• The call center
+
+## Operation
+• The environmental and social safeguard assistants with the field team collected and recorded the data from the various key points on the ground in a Google Sheet file.
+• This file served as an online data source for our visual. This makes our visual dynamic because it directly updates the data saved by the field team during the field visits.
+
+
+
 ## Visual presentation
 
 ### 1. Definition
@@ -52,3 +68,13 @@ The visual offers several features such as:
 ### 5. Compatibility
 The visual is accessible via the web. That is to say it can work on all operating systems (Windows, Linux, Mac OS, Android, etc.), you just need a web browser.
 But it is also accessible in application version on Windows, Android, Ios.
+
+### 6. Test project
+
+#### 1. Clone the Repository: 
+```bash 
+git clone <repository_url>
+```
+#### 2. Build the Project:
+** Installer Microsoft PowerBI
+** Ouvrir le fichier "Projet BI FSRDC.pbix" que vous venez de cloner avec power BI
