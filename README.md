@@ -100,7 +100,9 @@ git clone <repository_url>
 #### 2. Build the Project:
 
 • Install Microsoft PowerBI
+
 • Open Microsoft Power BI
+
 • Open with Microsoft Power BI the file "Projet BI FSRDC.pbix" that you just cloned. (File -> Open -> Browse this device -> Go to the location where you cloned the file "Projet BI FSRDC.pbix" and Select this file -> Open)
 
 
