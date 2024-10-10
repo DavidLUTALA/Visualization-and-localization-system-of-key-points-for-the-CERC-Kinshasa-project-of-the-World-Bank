@@ -110,7 +110,6 @@ git clone <repository_url>
 
 
 
-![Image1](https://github.com/user-attachments/assets/4bdb0320-14cb-444c-ad35-bff3a2d1e041)
 ![Image2](https://github.com/user-attachments/assets/8ff8fb68-5f86-4b04-8c59-0d7e56c8ba25)
 ![Image3](https://github.com/user-attachments/assets/a0ccc5f1-0e5a-44ed-ab6c-abb1df945619)
 ![Image4](https://github.com/user-attachments/assets/aa9a245c-0180-4fb6-9894-93f7b170b085)
