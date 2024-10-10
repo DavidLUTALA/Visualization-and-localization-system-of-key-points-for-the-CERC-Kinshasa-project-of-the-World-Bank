@@ -12,11 +12,17 @@ For the success of the said project, I was asked to set up the necessary tools f
 
 ## Stakeholders
 • The World Bank (donor)
+
 • Project beneficiaries
+
 • Project specialists
+
 • Complaints management mechanism assistant
+
 • Environmental and social safeguard assistants
+
 • The visual producer
+
 • Field teams
 • The call center
 
