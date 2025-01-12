@@ -9,7 +9,7 @@ This social protection project aims to improve access to livelihoods and socio-e
 infrastructure in vulnerable communities in the country. For more information: https://projects.worldbank.org/en/projects-operations/project-detail/P171821
 The project includes an emergency response component, which will enable the Government to address the socio-economic impacts of the COVID-19 epidemic, through the implementation of an emergency cash transfer (CTP) program in the city of Kinshasa. The “Solidarity through Economic Transfers against Poverty in Kinshasa” (STEP-KIN) program will be financed to the tune of USD 50 million over a period of 12 months and will target approximately 250,000 beneficiaries. The transfer amount will be USD 25 per month for six months for each beneficiary of the program.
 
-For the success of the said project, I was asked to set up the necessary tools for the localization and visualization of the various key points useful for the execution of the CERC project but also important for the VBG/EAS/HS project.
+For the success of the said project, I was asked to set up the necessary tools for the localization and visualization of the various key points useful for the execution of the CERC project but also important for the VBG/EAS/HS project
 
 ## Stakeholders
 • The World Bank (donor)
